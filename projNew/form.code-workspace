@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/form"
+		},
+		{
+			"path": "../../../Downloads/project"
+		},
+		{
+			"path": "../../../Downloads/projNew"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "form"
+	}
+}
